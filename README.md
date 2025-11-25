@@ -6,6 +6,8 @@
   - [**React Native Emoji Chooser**](https://www.npmjs.com/package/react-native-emoji-chooser)<br>
   - [**Better Terminal Logs**](https://marketplace.visualstudio.com/items?itemName=dmytro-ivashchuk.better-terminal-logs)<br>
   - [**Pkg Script Groups**](https://marketplace.visualstudio.com/items?itemName=dmytro-ivashchuk.grouped-scripts-runner)<br>
+  - [**Dev Cheatsheet**](https://marketplace.visualstudio.com/items?itemName=dmytro-ivashchuk.dev-cheatsheet)<br>
+  - [**Mirror API**](https://marketplace.visualstudio.com/items?itemName=dmytro-ivashchuk.mirror-api)<br>
   <br>
 🤝 I’m open to collaborate on any cool idea — from open-source tools to full-stack apps.<br>
 🌱 Currently exploring **VS Code extensions**, **AI integrations**, and **React Native** improvements.<br>
