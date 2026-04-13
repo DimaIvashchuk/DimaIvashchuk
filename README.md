@@ -3,6 +3,7 @@
 🎯 I’m currently working on [**Sportouch**](https://sportouch.app) — a platform that helps players and organizers connect through sports events.<br>
 💻 I’m a Senior Software Engineer passionate about building with **React**, **React Native**, and **Node.js**.<br>
 🧩 I’ve created several open-source projects, including:<br>
+  - [**React Native Background Workers**](https://www.npmjs.com/package/react-native-background-workers)<br>
   - [**React Native Emoji Chooser**](https://www.npmjs.com/package/react-native-emoji-chooser)<br>
   - [**Better Terminal Logs**](https://marketplace.visualstudio.com/items?itemName=dmytro-ivashchuk.better-terminal-logs)<br>
   - [**Pkg Script Groups**](https://marketplace.visualstudio.com/items?itemName=dmytro-ivashchuk.grouped-scripts-runner)<br>
